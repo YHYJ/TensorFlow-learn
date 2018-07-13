@@ -33,10 +33,12 @@
 
 ![TF-zh](./resources/pics/TF-zh.jpg)
 
-- [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
-
-
-- [Github](https://github.com/jikexueyuanwiki/tensorflow-zh)
+1. 极客学院版
+   - [TensorFlow 官方文档中文版-极客学院](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
+   - [Github](https://github.com/jikexueyuanwiki/tensorflow-zh)
+2. 掘金版
+   - [TensorFlow官方文档中文版-掘金](https://tensorflow.juejin.im)
+   - [Github](https://github.com/xitu/tensorflow-docs)
 
 ---
 
