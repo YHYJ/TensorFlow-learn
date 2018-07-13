@@ -7,7 +7,7 @@
 
 ## 官方
 
-![TF](./resources/pics/TF.png)
+​							![TF](./resources/pics/TF.png)
 
 - [官网](https://www.tensorflow.org/)
 
@@ -31,7 +31,7 @@
 
 ## 中文文档
 
-![TF-zh](./resources/pics/TF-zh.jpg)
+​				  ![TF-zh](./resources/pics/TF-zh.jpg)
 
 - [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
 
